@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "sen-ocr",
   "name": "SenClaw OCR",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PaddleOCR (PP-OCRv4/v5) on the MNN inference backend",
   "type": "ocr",
   "slots": ["ocr"],
@@ -20,6 +20,6 @@
   "idleTimeoutSecs": 300,
   "api": { "openaiBase": "/v1" },
   "homepage": "https://github.com/SenClaw/sen-ocr",
-  "releaseNotesUrl": "https://github.com/SenClaw/sen-ocr/releases/tag/v0.1.0",
+  "releaseNotesUrl": "https://github.com/SenClaw/sen-ocr/releases/tag/v0.1.1",
   "license": "MIT"
 }

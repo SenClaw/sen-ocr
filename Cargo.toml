@@ -4,7 +4,7 @@ resolver = "2"
 
 [package]
 name = "sen-ocr"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "SenClaw OCR runtime: PaddleOCR (PP-OCRv4/v5) on the MNN inference backend"
 license = "MIT"
